@@ -2,5 +2,6 @@
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
+    <Image id="image" src="https://www.sapdev.eu/wp-content/uploads/2021/08/kep-3-1024x500.png" />
     </Page>
 </mvc:View>
